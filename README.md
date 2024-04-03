@@ -1,4 +1,3 @@
-
  <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,15 +21,6 @@
 <div class="section-container">
         <h2>Bahasa yang Dipelajari</h2>
      <table>
-     <style>
-	table, th, td {
-  border: 1px solid black;
-}
-table {
-  border-spacing: 10px;
-  
-}
-	</style>
             <tr>
                 <td>JavaScript</td>
             </tr>
@@ -44,4 +34,7 @@ table {
     </div>
 </body>
 </html>
+
+
+
 
